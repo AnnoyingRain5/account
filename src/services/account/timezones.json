@@ -617,12 +617,20 @@
                 "utc_offset": "39600",
                 "order": "9"
             },
+                        {
+                "area": "Australia/Canberra",
+                "language": "en",
+                "name": "Canberra",
+                "utc_offset": "39600",
+                "order": "10"
+            },
+            
             {
                 "area": "Pacific/Norfolk",
                 "language": "en",
                 "name": "Norfolk Island",
                 "utc_offset": "39600",
-                "order": "10"
+                "order": "11"
             }
         ],
         "de": [
